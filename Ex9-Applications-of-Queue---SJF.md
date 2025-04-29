@@ -17,8 +17,8 @@ process.
 ```
 /*
 Program to find the Total Waiting Time and Average Waiting Time in Shortest Job First scheduling algorithm.
-Developed by: ANU VARSHINI M B
-RegisterNumber: 212223240010
+Developed by: KANISHKAR M
+RegisterNumber:  212222240044
 */
 #include<stdio.h> 
 int main() 
